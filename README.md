@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 📫 How to reach me: george444emmanuel@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 **Emmanuel777333/Emmanuel777333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
